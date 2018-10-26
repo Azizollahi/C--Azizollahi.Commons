@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzizollahiCommons", "AzizollahiCommons\AzizollahiCommons.csproj", "{5BE3A6C0-0A1D-4C80-BC6F-6EE0D1CF32FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzizollahiCommons.Test", "AzizollahiCommons.Test\AzizollahiCommons.Test.csproj", "{F3BDCCD5-D1FE-47A5-A391-FC94420170C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE3A6C0-0A1D-4C80-BC6F-6EE0D1CF32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3A6C0-0A1D-4C80-BC6F-6EE0D1CF32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE3A6C0-0A1D-4C80-BC6F-6EE0D1CF32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE3A6C0-0A1D-4C80-BC6F-6EE0D1CF32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BDCCD5-D1FE-47A5-A391-FC94420170C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BDCCD5-D1FE-47A5-A391-FC94420170C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BDCCD5-D1FE-47A5-A391-FC94420170C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BDCCD5-D1FE-47A5-A391-FC94420170C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
