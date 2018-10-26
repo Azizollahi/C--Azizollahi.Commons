@@ -1,8 +1,0 @@
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\bin\Debug\netcoreapp2.1\AzizollahiCommons.deps.json
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\bin\Debug\netcoreapp2.1\AzizollahiCommons.dll
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\bin\Debug\netcoreapp2.1\AzizollahiCommons.pdb
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\obj\Debug\netcoreapp2.1\AzizollahiCommons.csproj.CoreCompileInputs.cache
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\obj\Debug\netcoreapp2.1\AzizollahiCommons.AssemblyInfoInputs.cache
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\obj\Debug\netcoreapp2.1\AzizollahiCommons.AssemblyInfo.cs
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\obj\Debug\netcoreapp2.1\AzizollahiCommons.dll
-F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\AzizollahiCommons\obj\Debug\netcoreapp2.1\AzizollahiCommons.pdb
