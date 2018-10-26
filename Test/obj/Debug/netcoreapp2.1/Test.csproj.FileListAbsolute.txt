@@ -1,0 +1,14 @@
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\Test.dll
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\Test.pdb
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\AzizollahiCommons.dll
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\bin\Debug\netcoreapp2.1\AzizollahiCommons.pdb
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.csprojAssemblyReference.cache
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.dll
+F:\Workspace\C#\AzizollahiCommons\AzizollahiCommons\Test\obj\Debug\netcoreapp2.1\Test.pdb
